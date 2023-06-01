@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704550135719",
+    "project_id": "thanhnhanshopapp",
+    "storage_bucket": "thanhnhanshopapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704550135719:android:6ace368980c958b034b882",
+        "android_client_info": {
+          "package_name": "com.example.appfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704550135719-cmurudtkaopmn3ub6l4ppft99h143cnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLmIrIFLquIpRQ-0kBA4l6k_ozqHBFxsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704550135719-cmurudtkaopmn3ub6l4ppft99h143cnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
